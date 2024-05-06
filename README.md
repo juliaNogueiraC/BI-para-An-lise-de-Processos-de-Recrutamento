@@ -36,6 +36,7 @@ Link do Projeto: (https://app.powerbi.com/groups/me/reports/dcc09f58-96e6-4b9d-9
 
 Este projeto é uma valiosa contribuição para qualquer organização que busque aprimorar seus processos de recrutamento e seleção por meio da análise de dados e da aplicação de insights orientados por BI. Além disso, serve como um recurso educativo e inspirador para profissionais e estudantes interessados no campo de Recursos Humanos e Business Intelligence.
 
+Obs.: os dados não foram adicionandos ao repositório por se tratar de dados sensiveis de uma organização.
 
 
 
